@@ -3,7 +3,7 @@
 API RESTful de um sistema que contém recursos que auxiliam no gerenciamento financeiro do usuário, uma forma eficaz de manter o equilíbrio entre suas receitas e despesas.
 
 <br>
-<img align=center src="img/img-readme.png">
+<img align=center src="banner-repository.png">
 
 ## Como rodar
 
