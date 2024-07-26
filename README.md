@@ -123,7 +123,12 @@ http://localhost:3000/transacao
 ```
 </details>
 
+<br>
 
+## _Middlewares_
+- authentication<br>
+  _Middleware responsável em validar o token de autenticação do usuário logado, através do JWT token enviado no header da requisição, caso algo de errado aconteça, um erro 401 aparecerá, indicando usuário não autenticado._
+  
 ## _Tecnologias usadas_
 - Javascript
 - Node.js
